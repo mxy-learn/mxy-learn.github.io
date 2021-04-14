@@ -9,5 +9,5 @@
     * [四、Spark](bigdata/Spark/)
     * [五、Flink](bigdata/Flink/)
 * 数据仓库
-    * [一、维度建模](datawarehouse/维度建模/)
-    * [二、建模流程](datawarehouse/建模流程/)
+    * [一、维度建模](datawarehouse/dimmodel/)
+    * [二、建模流程](datawarehouse/dimdesign/)
