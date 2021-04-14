@@ -1,7 +1,7 @@
 # Hive
 
 ## 1 Hive优化
-### 1.1 key分部不均匀造成的数据倾斜<br>
+### 1.1 key分布不均匀造成的数据倾斜<br>
 1、增加reduce个数<br>
 2、map阶段combiner合并
 
