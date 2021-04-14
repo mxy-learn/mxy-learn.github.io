@@ -3,18 +3,6 @@
 ## 1 简介
 HDFS （Hadoop Distributed File System）是 Hadoop 下的分布式文件系统，具有高容错、高吞吐量等特性，可以部署在低成本的硬件上。
 
-- HDFS（分布式存储系统）
-- MapReduce（分布式计算框架）
-- Zookeeper（分布式协调服务）
-- Hbase（分布式数据库）
-- Flume（日志收集）
-- Sqoop（数据库TEL工具）
-- Hive（数据仓库）
-- Pig（工作流引擎）
-- Mathout（数据挖掘库）
-- Oozie（作业流调度系统）
-- Ambari（安装部署工具）
-
 ## 2 架构设计
 > 主要由NameNode和DataNode构成。
 
